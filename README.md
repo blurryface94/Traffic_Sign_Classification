@@ -46,12 +46,15 @@ Classes are as listed below:
 ## Model Details
 The network used is called Le-Net which is a convolutional neural network proposed by Yann LeChun. LeNet-5 CNN architecture is made up of 7 layers. The layer composition consists of 3 convolutional layers, 2 subsampling layers and 2 fully connected layers.
 The following image shows the architecture of the network:
+
 <img width="1129" alt="Screen Shot 2020-08-07 at 4 03 05 pm" src="https://user-images.githubusercontent.com/39994111/89614860-a4e8cb00-d8c8-11ea-9741-3e6f65b09640.png">
 
 The following image shows the accuracy of the model:
+
 <img width="384" alt="Screen Shot 2020-08-07 at 3 57 02 pm" src="https://user-images.githubusercontent.com/39994111/89614908-c5b12080-d8c8-11ea-8ed8-b14d6c436cf8.png">
 
 The following image shows the prediction made with the model:
+
 <img width="728" alt="Screen Shot 2020-08-07 at 3 56 43 pm" src="https://user-images.githubusercontent.com/39994111/89614971-e11c2b80-d8c8-11ea-9418-5344f3c64ebb.png">
 
 
